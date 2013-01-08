@@ -88,7 +88,7 @@
 					<div id="officeDetails" class="servicesDetails">asdf asdf asdf aadf adf adf adf adf adfa dfa dfadsfa dfadf sdf sadf sad</div>
 					
 					<div id="hsSpecial" class="hsSlider"><img style="vertical-align: middle" src="images/6.png" /> Special Menu <hr style="margin-right:18px" /></div>
-					<div id="specialDetails" class="servicesDetails">asdf asdf asdf asdf adfadfadfadsfad adfadsfa adf adsfa adf asdf adf ad fasadf sad</div>
+					<div id="specialDetails" class="servicesDetails">This is the the changed contents of specail munu</div>
 					
 			</div>
 			<div id="reviews">
